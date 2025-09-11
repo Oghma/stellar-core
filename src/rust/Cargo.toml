@@ -106,7 +106,7 @@ tracy-client = { version = "=0.17.0", features = [
 # unify them, perturbing the contents of the lockfile.
 
 [dependencies.soroban-env-host-p23]
-version = "=23.0.0"
+version = "=23.0.1"
 git = "https://github.com/Oghma/rs-soroban-env"
 package = "soroban-env-host"
 rev = "8dc49f7caad92396d2f9c73d08fb48a3e40fc683"
@@ -130,12 +130,12 @@ optional = true
 # supported host, since test material usually just grows over time.
 
 [dependencies.soroban-test-wasms]
-version = "=23.0.0"
+version = "=23.0.1"
 git = "https://github.com/Oghma/rs-soroban-env"
 rev = "8dc49f7caad92396d2f9c73d08fb48a3e40fc683"
 
 [dependencies.soroban-synth-wasm]
-version = "=23.0.0"
+version = "=23.0.1"
 git = "https://github.com/Oghma/rs-soroban-env"
 rev = "8dc49f7caad92396d2f9c73d08fb48a3e40fc683"
 
