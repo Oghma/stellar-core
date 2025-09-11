@@ -141,7 +141,7 @@ rev = "8dc49f7caad92396d2f9c73d08fb48a3e40fc683"
 
 [dependencies.stellar-quorum-analyzer]
 version = "0.1.0"
-git = "https://github.com/Oghma/stellar-quorum-analyzer"
+git = "https://github.com/stellar/stellar-quorum-analyzer"
 rev = "19a94f05018c5db45daa0d62de7b3282b61f276b"
 
 [features]
