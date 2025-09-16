@@ -39,4 +39,4 @@
 	url = https://github.com/stellar/rs-soroban-env
 [submodule "src/rust/soroban/p23"]
 	path = src/rust/soroban/p23
-	url = https://github.com/stellar/rs-soroban-env.git
+	url = https://github.com/Oghma/rs-soroban-env.git
